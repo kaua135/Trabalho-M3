@@ -1,3 +1,0 @@
-# API de Consulta de Filmes 🎬
-...
-(Conteúdo abreviado pois já foi mostrado na conversa)
