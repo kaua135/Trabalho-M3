@@ -4,8 +4,6 @@ import requests
 
 app = FastAPI()
 
-API_KEY = "37c31d83"
-
 # Função para traduzir o texto para português usando MyMemory(usando a Ajuda do chat)
 def traduzir(texto):
     url = "https://api.mymemory.translated.net/get"
